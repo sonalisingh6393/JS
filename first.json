@@ -1,0 +1,10 @@
+{
+    "name":"sonali",
+     "phone no":342534524,
+     "city":"Lucknow",
+     "Cource":["js","css","html"],
+     "address":{
+"area":"Gomti Nagar",
+"pin":56556,
+     }
+}
